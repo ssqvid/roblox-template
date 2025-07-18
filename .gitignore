@@ -1,0 +1,25 @@
+# Pesde
+.pesde
+roblox_packages
+lune_packages
+luau_packages
+pesde.lock
+
+# Roblox Studio files
+/*.rbxlx
+/*.rbxlx.lock
+/*.rbxl
+/*.rbxl.lock
+
+# Development files
+build
+sourcemap.json
+roblox.yml
+en-us.json
+globalTypes.d.luau
+
+# Blink files
+network
+
+# MacOS files
+.DS_Store

@@ -1,0 +1,8 @@
+[*]
+indent_style = space
+
+[*.{json,yml,luaurc,toml,blink}]
+indent_size = 2
+
+[*.luau]
+indent_size = 4
