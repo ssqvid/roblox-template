@@ -47,10 +47,6 @@ lemonsignal = { wally = "data-oriented-house/lemonsignal", version = "1.10.0" }
 
 [overrides]
 "jabby>jecs" = "jecs"
-"jabby>vide" = "vide"
-"jabby>pebble>vide" = "vide"
-"vide-charm>vide" = "vide"
-"vide-charm>charm" = "charm"
-"charm-sync>charm" = "charm"
-"ripple>promise" = "promise"
-"lyra>promise" = "promise"
+"jabby>vide,jabby>pebble>vide,vide-charm>vide" = "vide"
+"vide-charm>charm,charm-sync>charm" = "charm"
+"ripple>promise,lyra>promise" = "promise"
