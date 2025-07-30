@@ -20,13 +20,13 @@ sourcemap_generator = ".pesde/scripts/sourcemap_generator.luau"
 
 [dev_dependencies]
 scripts = { name = "pesde/scripts_rojo", version = "^0.1.0", target = "lune" }
-rojo = { name = "pesde/rojo", version = "7.5.1", target = "lune" }
+#rojo = { name = "pesde/rojo", version = "7.5.1", target = "lune" }
 #asphalt = { name = "pesde/asphalt", version = "0.9.1", target = "lune" }
-selene = { name = "pesde/selene", version = "0.28.0", target = "lune" }
-stylua = { name = "pesde/stylua", version = "2.1.0", target = "lune" }
-darklua = { name = "pesde/darklua", version = "0.16.0", target = "lune" }
-luau-lsp = { name = "pesde/luau_lsp", version = "1.48.0", target = "lune" }
-blink = { name = "pesde/blink", version = "0.17.3", target = "lune" }
+#selene = { name = "pesde/selene", version = "0.28.0", target = "lune" }
+#stylua = { name = "pesde/stylua", version = "2.1.0", target = "lune" }
+#darklua = { name = "pesde/darklua", version = "0.16.0", target = "lune" }
+#luau-lsp = { name = "pesde/luau_lsp", version = "1.48.0", target = "lune" }
+#blink = { name = "pesde/blink", version = "0.17.3", target = "lune" }
 
 ui-labs = { name = "pepeeltoro41/ui_labs", version = "=2.3.8", target = "roblox" }
 jest = { wally = "jsdotlua/jest", version = "3.10.0" }
